@@ -1,0 +1,8 @@
+# This hosts file is a custom DNSBL
+# Date: 05 March 2019 16:55:37 (UTC)
+# ===============================================================
+
+0.0.0.0 youtube.com
+0.0.0.0 ytimg.com
+0.0.0.0 googlevideo.com
+0.0.0.0 fortnite.com
