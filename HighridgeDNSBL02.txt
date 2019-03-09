@@ -14,8 +14,5 @@
 0.0.0.0 youtu.be
 0.0.0.0 youtubei.googleapis.com
 0.0.0.0 s.ytimg.com
-0.0.0.0 fortnite.com
-0.0.0.0 easyanticheat.net
-0.0.0.0 epicgames.com
 0.0.0.0 reddit.com
 0.0.0.0 www.reddit.com
