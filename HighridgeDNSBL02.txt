@@ -16,3 +16,12 @@
 0.0.0.0 s.ytimg.com
 0.0.0.0 reddit.com
 0.0.0.0 www.reddit.com
+0.0.0.0 proxysite.video
+0.0.0.0 www.proxysite.video
+0.0.0.0 www.genmirror.com
+0.0.0.0 genmirror.com
+0.0.0.0 unblockvideos.site
+0.0.0.0 www.unblockvideos.site
+0.0.0.0 www.zalmos.com
+0.0.0.0 zalmos.com
+0.0.0.0 unblockyoutube.video
