@@ -25,3 +25,5 @@
 0.0.0.0 www.zalmos.com
 0.0.0.0 zalmos.com
 0.0.0.0 unblockyoutube.video
+0.0.0.0 panproxy.com
+0.0.0.0 www.panproxy.com
