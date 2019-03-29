@@ -1863,3 +1863,5 @@
 0.0.0.0 www.myphoneapplicationsonline.xyz
 0.0.0.0 www.xperienc.com
 0.0.0.0 www.unblocks.net
+0.0.0.0 www.croxyproxy.com
+0.0.0.0 croxyproxy.com
