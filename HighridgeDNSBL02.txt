@@ -1,4 +1,5 @@
 # This hosts file is a custom DNSBL
+
 # Date: 05 March 2019 16:55:37 (UTC)
 # ===============================================================
 
@@ -27,3 +28,32 @@
 0.0.0.0 unblockyoutube.video
 0.0.0.0 panproxy.com
 0.0.0.0 www.panproxy.com
+0.0.0.0 www.my-proxy.com
+0.0.0.0 phx.unblock-me.org
+0.0.0.0 www.unblock-me.org
+0.0.0.0 lv.unblock-me.org
+0.0.0.0 www.genmirror.com
+0.0.0.0 genmirror.com
+0.0.0.0 www.filterbypass.me
+0.0.0.0 filterbypass.me
+0.0.0.0 proxysite.com
+0.0.0.0 unblockvideos.com
+0.0.0.0 www.youtubefreeproxy.com
+0.0.0.0 youtubefreeproxy.com
+0.0.0.0 www.proxfree.com
+0.0.0.0 proxfree.com
+0.0.0.0 www.freeyoutubeproxy.org
+0.0.0.0 freeyoutubeproxy.org
+0.0.0.0 www.atozproxy.com
+0.0.0.0 www.unblockyoutube.co
+0.0.0.0 proxy.org
+0.0.0.0 proxify.com
+0.0.0.0 dontfilter.us
+0.0.0.0 newipnow.com
+0.0.0.0 4everproxy.com
+0.0.0.0 www.ninjacloak.info
+0.0.0.0 kproxy.com
+0.0.0.0 www.unblockmyweb.com
+0.0.0.0 bestyouproxytube.com
+0.0.0.0 www.proxy-youtube.com
+0.0.0.0 rapidproxy.org
