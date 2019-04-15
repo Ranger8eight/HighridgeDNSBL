@@ -1,0 +1,14 @@
+# This hosts file is a custom DNSBL
+# Date: 05 March 2019 16:55:37 (UTC)
+# ===============================================================
+0.0.0.0 datarouter.ol.epicgames.com
+0.0.0.0 datarouter-weighted.ol.epicgames.com
+0.0.0.0 account-public-service-prod.ol.epicgames.com
+0.0.0.0 hydra.easyanticheat.net
+0.0.0.0 lightswitch-public-service-prod.ol.epicgames.com
+0.0.0.0 fortnitecontent-website-prod07.ol.epicgames.com
+0.0.0.0 fortnite-public-service-prod11.ol.epicgames.com
+0.0.0.0 launcher-public-service-prod06.ol.epicgames.com
+0.0.0.0 friends-public-service-prod06.ol.epicgames.com
+0.0.0.0 graphql.epicgames.com
+0.0.0.0 fortnite-public-service-prod10.ol.epicgames.com
