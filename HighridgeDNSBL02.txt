@@ -1882,3 +1882,5 @@
 0.0.0.0 y.youtubeproxy.win
 0.0.0.0 x.youtubeproxy.win
 0.0.0.0 z.youtubeproxy.win
+0.0.0.0 unblocktunnel.org
+0.0.0.0 www.unblocktunnel.org
