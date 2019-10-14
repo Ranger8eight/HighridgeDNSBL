@@ -2675,4 +2675,5 @@
 0.0.0.0 www.meinu.de
 0.0.0.0 www.whyproxy.com
 0.0.0.0 www.bestvideoproxy.com
+0.0.0.0 members.youtube-unblock.org
 0.0.0.0 www.hidesurf.us
