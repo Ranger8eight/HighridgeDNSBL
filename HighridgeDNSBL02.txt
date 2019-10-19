@@ -2680,3 +2680,13 @@
 0.0.0.0 purevpn.com
 0.0.0.0 www.purevpn.com
 0.0.0.0 support.purevpn.com
+0.0.0.0 hotspotshield.com
+0.0.0.0 www.hotspotshield.com
+0.0.0.0 setupvpn.com
+0.0.0.0 www.setupvpn.com
+0.0.0.0 ininja.org
+0.0.0.0 www.ininja.org
+0.0.0.0 dotvpn.com
+0.0.0.0 ipunblock.com
+0.0.0.0 www.dotvpn.com
+0.0.0.0 www.ipunblock.com
