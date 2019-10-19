@@ -2677,3 +2677,6 @@
 0.0.0.0 www.bestvideoproxy.com
 0.0.0.0 members.youtube-unblock.org
 0.0.0.0 www.hidesurf.us
+0.0.0.0 purevpn.com
+0.0.0.0 www.purevpn.com
+0.0.0.0 support.purevpn.com
