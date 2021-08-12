@@ -1,20 +1,6 @@
 # This hosts file is a custom DNSBL
 # Date: 05 March 2019 16:55:37 (UTC)
 # ===============================================================
-0.0.0.0 youtube.com
-0.0.0.0 www.youtube.com
-0.0.0.0 youtube-ui.l.google.com
-0.0.0.0 ytimg.com
-0.0.0.0 googlevideo.com
-0.0.0.0 m.youtube.com
-0.0.0.0 ytimg.l.google.com
-0.0.0.0 ytstatic.l.google.com
-0.0.0.0 youtube.l.google.com
-0.0.0.0 youtu.be
-0.0.0.0 youtubei.googleapis.com
-0.0.0.0 s.ytimg.com
-0.0.0.0 reddit.com
-0.0.0.0 www.reddit.com
 0.0.0.0 proxysite.video
 0.0.0.0 www.proxysite.video
 0.0.0.0 www.genmirror.com
